@@ -1,0 +1,11 @@
+﻿h2.jQuery Browser Selectors - A solução Cross Browser para seletores especiais
+
+p. Adicione automaticamente classes especiais de acordo com o browser e a versão do browser. Classes adicionadas em body.
+
+h4. Criando versão minifield
+
+p. Para isso usei o google compiler, mais você pode fazer como quiser. O comando/código para o google compiler é:
+
+<pre>
+java -jar google-compiler.jar --js jquery.browser.selectors.js --js_output_file jquery.browser.selectors.min.js
+</pre>
