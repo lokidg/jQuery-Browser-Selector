@@ -1,4 +1,4 @@
-﻿h2. jQuery Browser Selector - A solução Cross Browser para seletores especiais
+﻿<h3>jQuery Browser Selector - A solução Cross Browser para seletores especiais</h3>
 
 p. Adicione automaticamente classes especiais de acordo com o browser e a versão do browser. Classes adicionadas em body.
 
